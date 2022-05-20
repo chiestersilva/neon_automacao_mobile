@@ -1,0 +1,5 @@
+[caps]
+automationName = "UIAutomator2"
+platformName = "Android"
+deviceName = "Android Emulator"
+app = "C:\\Projetos\\cadastro_de_clientes\\app\\cadastro_clientes_teste.apk""

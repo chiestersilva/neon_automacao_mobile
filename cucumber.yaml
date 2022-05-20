@@ -1,0 +1,2 @@
+default: -p bdd --format html --out report.html
+bdd: --format pretty
