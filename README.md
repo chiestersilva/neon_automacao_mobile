@@ -48,4 +48,4 @@ E navegar até o diretório que houve o clone do repositório
 
 Para realizar o teste e necessário a execução do comando "bundle install", para que instale todas as dependencias relacionadas no arquivo Gemfile.
 
-Para exeucção dos teste e necessário utilizar o comando "cucumber", no CMDER dentro da pasta do projeto.
+Para execução dos teste e necessário utilizar o comando "cucumber", no CMDER dentro da pasta do projeto.
