@@ -14,18 +14,27 @@ git clone https://github.com/chiestersilva/neon_automacao_mobile.git
 ### 📋 Pré-requisitos
 
 Para a execução do projeto será necessário a utilização de algumas ferramentas:
+
 Escolher a IDE para automação: VSCode, IntelliJ (por exemplo)
+
 Console emulator appium(para utilização do terminal)
+
 Instalar o Ruby (servidor que comunicará com o celular e o aplicativo)
+
 Instalar o jdk8
+
 Instalar o Android studio (para emular o celular android)
 
 ### 🔧 Instalação
 
 Instale o VSCode, donwload pelo link: https://code.visualstudio.com/download.
+
 Instale o CMDER, download pelo link: https://github.com/cmderdev/cmder/releases/download/v1.3.19/cmder.zip  
+
 Instale o appium, download pelo link: https://github.com/appium/appium-desktop/releases/tag/v1.22.3-4
+
 Instale o jdk8, download pelo link: https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html
+
 Intale o android studio, pelo link: https://developer.android.com/studio?hl=pt&gclid=Cj0KCQjw-JyUBhCuARIsANUqQ_LdrC1NE1Y8gUZtkw82RfX7AjUgau8OXuBmyjFnjuXm9_ZfAIATDvMaAhYaEALw_wcB&gclsrc=aw.ds
 
 
