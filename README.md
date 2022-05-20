@@ -14,7 +14,7 @@ git clone https://github.com/chiestersilva/neon_automacao_mobile.git
 ### 📋 Pré-requisitos
 
 Para a execução do projeto será necessário a utilização de algumas ferramentas:
-Escolhenro a IDE para automação: VSCode, IntelliJ (por exemplo)
+Escolher a IDE para automação: VSCode, IntelliJ (por exemplo)
 Console emulator appium(para utilização do terminal)
 Instalar o Ruby (servidor que comunicará com o celular e o aplicativo)
 Instalar o jdk8
